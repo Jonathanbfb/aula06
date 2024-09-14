@@ -1,0 +1,22 @@
+img {
+    width:100px;
+    height:100px;
+}
+body{
+
+    border: 10px solid rgb(29, 26, 26);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 200px;
+    color: chartreuse;
+    font-size: 30px;
+    display: block;
+    background-color: rgb(216, 150, 149);
+}
+
+section{
+    background-color: rgb(247, 246, 242);
+    color: rgb(6, 6, 6);
+}
+
